@@ -8,7 +8,7 @@ Understanding the relationship between coffee rust, production quantities and fu
 
 __Data__: Original project had 337 observations for Brasil, Colombia and Papua New Guinea from 1995-1996, 2002-2005 and 2006 with five features: rain, temperature, rust, production amount and futures prices. 
 
-November 2018 Update : Focus on Brasil data from 1991-2018. Data Imputation methods for missing rust data to be discussed.
+__ November 2018 Update __ : Focus on Brasil only from 1991-2018. Data Imputation methods for missing rust data to be discussed.
 
 __Results__: Various visualization techniques were used to establish a quantitative framework for the relationship between coffee rust, production amounts and futures prices. As rust increases, production increases. The slope for Production is 0.222 and the normalized root mean square error is 0.012. If production increases, future prices increase. The slope for Futures is 0.049 and the normalized root mean square error is 0.301. A polynomial regression shows the relationship between rust and futures being positive. The slope for Rust is 0.724 and the normalized root mean square error is 0.112.
 
