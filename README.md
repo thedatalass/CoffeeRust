@@ -6,7 +6,7 @@ __Abstract__: More than two billion cups of coffee are consumed worldwide each d
   
 Understanding the relationship between coffee rust, production quantities and futures prices is important to anyone affected by the coffee supply chain. This research offers a more quantitative framework for describing and visualizing the relationship between coffee rust, amount of coffee produced and futures prices.
 
-__Data__: Original project had 337 observations for Brasil, Colombia and Papua New Guinea with five features: rain, temperature, rust, production amount and futures prices. 
+__Data__: Original project had 337 observations for Brasil, Colombia and Papua New Guinea from 1995-1996, 2002-2005 and 2006 with five features: rain, temperature, rust, production amount and futures prices. 
 
 November 2018 Update : Focus on Brasil data from 1991-2018. Data Imputation methods for missing rust data to be discussed.
 
