@@ -2,9 +2,7 @@
 
 *Quantitative Framework for Coffee Rust, Production and Futures*
 
-__Abstract__: More than two billion cups of coffee are consumed worldwide each day. The livelihood of 120 million people depends on the coffee supply chain. Coffee rust leads to production losses of over $500 million worldwide and may affect futures prices. Coffee rust is caused by the coffee berry borer, or Hemileia vastatrix fungus, at temperatures from 10-30 C, and is one of the main diseases that attacks the coffee arábica plant. Coffee is the second largest traded commodity worldwide, with about $100 billion in volume traded annually.
-  
-Understanding the relationship between coffee rust, production quantities and futures prices is important to anyone affected by the coffee supply chain. This research offers a more quantitative framework for describing and visualizing the relationship between coffee rust, amount of coffee produced and futures prices.
+__Abstract__: The livelihood of 120 million people depends on the coffee supply chain. Coffee rust leads to production losses of over $500 million worldwide and may affect futures prices. Coffee rust is caused by the coffee berry borer at temperatures from 10-30 C, and is one of the main diseases that attacks the coffee plant. Coffee is the second largest traded commodity worldwide, with about $100 billion in volume traded annually. This research offers a more quantitative framework for describing and visualizing the relationship between coffee rust, amount of coffee produced and futures prices.
 
 __Data__: Original project had 337 observations for Brasil, Colombia and Papua New Guinea from 1995-1996, 2002-2005 and 2006 with five features: rain, temperature, rust, production amount and futures prices. 
 
