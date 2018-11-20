@@ -1,6 +1,6 @@
 # CoffeeRust
 
-*Quantitative Framework for Coffee Rust, Production and Futures*
+*Quantitative Framework for Coffee Rust, Production and Futures* (December 2017)
 
 __Abstract__: The livelihood of 120 million people depends on the coffee supply chain. Coffee rust leads to production losses of over $500 million worldwide and may affect futures prices. Coffee rust is caused by the coffee berry borer at temperatures from 10-30 C, and is one of the main diseases that attacks the coffee plant. Coffee is the second largest traded commodity worldwide, with about $100 billion in volume traded annually. This research offers a more quantitative framework for describing and visualizing the relationship between coffee rust, amount of coffee produced and futures prices.
 
@@ -12,10 +12,17 @@ See More at http://thedatalass.com/morning-joe-viz-project.
 
 -------------------------------------
 
-__November 2018 Update__ : New datasets found in 2018 changed scope of original project
+__November 2018 Update__
+
+*Predicting Coffee Rust with Artificial Neural Networks* (November 2018)
+
+Four new datasets found in 2018 changed scope of original 2017 project
 
 __Problem__: Predict future weekly rust % amounts in Brasil using machine learning techniques with temperature, rain, production and futures variables.
 
 __Data__ : New curated dataset has 1584 weekly Observations (5 times original dataset) for Brasil from January 1, 1991-July 30, 2018. Input features are temperature, rain, production and futures. Target output is rust (by week in % of coverage on coffee plant).
 
 __Preliminary Results__ : Multi-layer perceptron with 4 neurons and 4 layers has MSE of 56.86 (Logistic regression baseline MSE is 7155.29.)
+
+
+Code forthcoming
