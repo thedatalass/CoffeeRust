@@ -12,6 +12,8 @@ __Results__: Various visualization techniques were used to establish a quantitat
 
 See More at http://thedatalass.com/morning-joe-viz-project.
 
+-------------------------------------
+
 __November 2018 Update__ : New datasets found in 2018 changed scope of original project
 
 Problem: Predict future weekly rust % amounts in Brasil using machine learning techniques with temperature, rain, production and futures variables.
