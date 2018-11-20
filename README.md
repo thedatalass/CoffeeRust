@@ -16,7 +16,7 @@ See More at http://thedatalass.com/morning-joe-viz-project.
 
 __November 2018 Update__ : New datasets found in 2018 changed scope of original project
 
-Problem: Predict future weekly rust % amounts in Brasil using machine learning techniques with temperature, rain, production and futures variables.
+__Problem__: Predict future weekly rust % amounts in Brasil using machine learning techniques with temperature, rain, production and futures variables.
 
 __Data__ : New curated dataset has 1584 weekly Observations for Brasil from January 1, 1991-July 30, 2018. Input features are temperature, rain, production and futures. Target output is rust (by week in % of coverage on coffee plant).
 
