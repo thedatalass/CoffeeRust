@@ -24,6 +24,8 @@ __Problem__: Predict future weekly rust % amounts in Brasil using machine learni
 
 __Data__ : New curated dataset has 1584 weekly Observations (5 times original dataset) for Brasil from January 1, 1991-July 30, 2018. Input features are temperature, rain, production and futures. Target output is rust (by week in % of coverage on coffee plant).
 
+"brasil_imputed.csv"
+
 __Preliminary Results__ : Multi-layer perceptron with 4 neurons and 4 layers has MSE of 56.86 (Logistic regression baseline MSE is 7155.29.)
 
 
