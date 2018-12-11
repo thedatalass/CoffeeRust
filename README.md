@@ -20,7 +20,7 @@ __November 2018 Update__
 
 Four new datasets found in 2018 changed scope of original 2017 project
 
-__Problem__: Predict future weekly rust % amounts in Brasil using machine learning techniques with temperature, rain, production and futures variables.
+__Problem__: Predict future weekly rust % amounts at the country-level in Brasil using machine learning techniques with temperature, rain, production and futures variables.
 
 __Data__ : New curated dataset has 1584 weekly Observations (5 times original dataset) for Brasil from January 1, 1991-July 30, 2018. Input features are temperature, rain, production and futures. Target output is rust (by week in % of coverage on coffee plant).
 
