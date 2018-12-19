@@ -18,7 +18,7 @@ __Conference Submission__: Talk submission for PyCon 2019
 
 __November 2018 Update__
 
-*Predicting Coffee Rust with Artificial Neural Networks* (November 2018)
+*Predicting Coffee Rust with Artificial Neural Networks* 
 
 Four new datasets found in 2018 changed scope of original 2017 project
 
