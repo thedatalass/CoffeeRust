@@ -8,9 +8,11 @@ __Data__: Original project had 323 observations for Brasil, Colombia and New Cal
 
 "new.csv" 
 
-__Results__: Various visualization techniques were used to establish a quantitative framework for the relationship between coffee rust, production amounts and futures prices. As rust increases, production increases. The slope for Production is 0.222 and the normalized root mean square error is 0.012. If production increases, future prices increase. The slope for Futures is 0.049 and the normalized root mean square error is 0.301. A polynomial regression shows the relationship between rust and futures being positive. The slope for Rust is 0.724 and the normalized root mean square error is 0.112.
+__Results__: Various visualization techniques were used to establish a quantitative framework for the relationship between coffee rust, production amounts and futures prices. As rust increases, production increases. The slope for Production is 10.02 and the normalized root mean square error is 0.012. If production increases, future prices increase. The slope for Futures is -0.071 and the normalized root mean square error is 0.309. A polynomial regression shows the relationship between rust and futures being positive. The slope for Temperature is -0.006 and the normalized root mean square error is 12.184.
 
 See More at http://thedatalass.com/morning-joe-viz-project.
+
+__Conference Submission__: Talk submission for PyCon 2019
 
 -------------------------------------
 
@@ -22,11 +24,12 @@ Four new datasets found in 2018 changed scope of original 2017 project
 
 __Problem__: Predict future weekly rust % amounts at the country-level in Brasil using machine learning techniques with temperature, rain, production and futures variables.
 
-__Data__ : New curated dataset has 1584 weekly Observations (5 times original dataset) for Brasil from January 1, 1991-July 30, 2018. Input features are temperature, rain, production and futures. Target output is rust (by week in % of coverage on coffee plant).
+__Data__ : New curated dataset has 1578 weekly Observations (5 times original dataset) for Brasil from January 1, 1991-July 30, 2018. Input features are temperature, rain, production and futures. Target output is rust (by week in % of coverage on coffee plant).
 
 "brasil_imputed.csv"
 
-__Preliminary Results__ : Multi-layer perceptron with 4 neurons and 4 layers has MSE of 63.69 (Logistic regression baseline MSE is 6040.98.)
-
+__Preliminary Results__ : Multi-layer perceptron with 6 neurons and 5 layers has MSE of 47.69 (Logistic regression baseline MSE is 6040.98.)
 
 Code forthcoming
+
+__Conference Submission__: Talk submission for SciPy 2019 (planned)
