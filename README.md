@@ -28,7 +28,7 @@ __Data__ : New curated dataset has 1578 weekly Observations (5 times original da
 
 "brasil_imputed.csv"
 
-__Preliminary Results__ : Multi-layer perceptron with 6 neurons and 5 layers has MSE of 47.69 (Logistic regression baseline MSE is 6040.98.)
+__Preliminary Results__ : Multi-layer perceptron with 6 neurons and 5 layers has MSE of 47.69 (Logistic regression baseline MSE is 6619.78.)
 
 Code forthcoming
 
