@@ -12,7 +12,7 @@ __Results__: Various visualization techniques were used to establish a quantitat
 
 See More at http://thedatalass.com/morning-joe-viz-project.
 
-__Conference Submission__: Talk submission for PyCon 2019
+__Conference Submission__: Talk submission for PyCon 2019 - not accepted
 
 -------------------------------------
 
@@ -30,6 +30,4 @@ __Data__ : New curated dataset has 1578 weekly Observations (5 times original da
 
 __Preliminary Results__ : Multi-layer perceptron with 6 neurons and 5 layers has MSE of 47.69 (Logistic regression baseline MSE is 6619.78.)
 
-Code forthcoming
-
-__Conference Submission__: Talk submission for SciPy 2019 (planned)
+__Conference Submission__: Poster to be presented at SciPy 2019 
