@@ -30,4 +30,16 @@ __Data__ : New curated dataset has 1578 weekly Observations (5 times original da
 
 __Preliminary Results__ : Multi-layer perceptron with 6 neurons and 5 layers has MSE of 47.69 (Logistic regression baseline MSE is 6619.78.)
 
-__Conference Submission__: Poster to be presented at SciPy 2019 
+__Conference Submission__: Poster presented at SciPy Conference 2019
+
+-------------------------------------
+__November 2019 Update__
+
+Brazilian Coffee Leaf Disease Predictions with Explainable Artificial Intelligence (XAI) -manuscript submitted to the Computers and Electronic in Agriculture Journal
+
+__Problem__: Can a explainable artificial intelligence (XAI) method such as LIME be used to increase trust in predicted weekly coffee rust amounts to augment human decision-making?
+
+__Data__ : New curated dataset has 1578 weekly Observations (5 times original dataset) for Minais Geras growing region of Brasil from January 1, 1991-July 30, 2018. Input features are temperature, rain, production and futures. Target output is rust (by week in % of coverage on coffee plant).
+
+__Results__: LIME MSE Decision Tree Regressor = 2.23
+"brasil_imputed.csv"
