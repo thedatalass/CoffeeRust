@@ -6,7 +6,7 @@ __Abstract__: The livelihood of 120 million people depends on the coffee supply 
 
 __Data__: Original project had 323 observations for Brasil, Colombia and New Caledonia from 1995-1996, 2002-2005 and 2006 with five features: rain, temperature, rust, production amount and futures prices. 
 
-"new.csv" 
+"new.xlsx" 
 
 __Results__: Various visualization techniques were used to establish a quantitative framework for the relationship between coffee rust, production amounts and futures prices. As rust increases, production increases. The slope for Production is 10.02 and the normalized root mean square error is 0.012. If production increases, future prices increase. The slope for Futures is -0.071 and the normalized root mean square error is 0.309. A polynomial regression shows the relationship between rust and futures being positive. The slope for Temperature is -0.006 and the normalized root mean square error is 12.184.
 
